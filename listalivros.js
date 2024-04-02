@@ -1,7 +1,7 @@
 const precoLivros = [
     {
         titulo: 'JavaScript', 
-        preço:25
+        preço: 25
     }, 
     {
         titulo: 'PHP',
