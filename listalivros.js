@@ -1,27 +1,27 @@
 const precoLivros = [
     {
         titulo: 'JavaScript', 
-        preço: 25
+        preco: 25
     }, 
     {
         titulo: 'PHP',
-        preço : 15
+        preco : 15
     }, 
     {
         titulo: 'java', 
-        preço: 30
+        preco: 30
     },
     {
         titulo: 'Elixir', 
-        preço: 50
+        preco: 50
     },
     {
         titulo: 'Go',
-        preço: 45
+        preco: 45
     },
     {
         titulo: 'Phython',
-        preço: 20
+        preco: 20
     },
 ];
 
