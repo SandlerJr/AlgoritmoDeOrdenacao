@@ -10,10 +10,10 @@ function insertionSort(lista){
             lista[analise] = itemAnterior;
             lista[analise - 1] = itemAnalise;
 
-            
+            analise--;
         }
     }
-    return lista;
+    console.log(lista);
 }
 
-console.log(insertionSort(livros));
+insertionSort(livros);
